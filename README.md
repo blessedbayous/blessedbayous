@@ -1,7 +1,3 @@
 <div id="header" align="center">
 
-![](https://komarev.com/ghpvc/?username=blessedbayous&color=2B2944&label=♎︎)
-
-![](https://imgur.com/EwFXmLC.png)![](https://imgur.com/EwFXmLC.png)![](https://imgur.com/EwFXmLC.png)
-![](https://imgur.com/TpfCf8z.png)![](https://imgur.com/TpfCf8z.png)![](https://imgur.com/TpfCf8z.png)
-![](.png)
+[![img](https://imgur.com/ItU45G9.png)](https://neospring.org/@brylee)[![img](https://imgur.com/moYTiVy.png)](https://rentry.co/blessedbayous)[![img](https://imgur.com/WbCZUKi.png)](https://blessedbayous.straw.page/)
